@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "cypress": "^13.6.6",
+    "cypress-plugin-api": "^2.11.1",
+    "debug": "^4.3.4"
+  },
+  "name": "serverest-cypress",
+  "description": "Projeto com cypress utilizando api pública.",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "faker": "^5.5.3"
+  }
+}
