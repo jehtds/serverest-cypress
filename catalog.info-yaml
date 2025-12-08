@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: serverest-cypress
+  description: "Aprendizados sobre cypress"
+  annotations:
+    github.com/project-slug: jehtds/serverest-cypress
+spec:
+  type: service
+  owner: user:default/jessica
+  lifecycle: experimental
